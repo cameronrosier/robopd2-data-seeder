@@ -1,0 +1,35 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment-specific files
+.env
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+*.idea/
+
+# Compiled Python files
+*.pyc
+
+# Python log files
+*.log
+
+# Python package files
+*.egg-info/
+dist/
+build/
+*.egg
+*.eggs
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
